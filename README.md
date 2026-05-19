@@ -3,7 +3,6 @@
 ### "To live is to be known and remembered by others." - Himmel, the hero. 
 
 Big fan of old japanese media, Chocolates, Coding, Horseshoe crabs and helping others! <br>
-Mail me at: `zenzesama@gmail.com`
     
 <details>
   <summary><strong>Expand if you are about stats</strong></summary>
