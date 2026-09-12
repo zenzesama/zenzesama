@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm zenze (Pseudonym)</h1>
 
-### "Just because someone stumbles, loses their way, doesn't mean they are lost forever. Sometimes we all need a little help." - Professor X. 
+### "There's still hope." - Professor X. 
 
 Big fan of Old technology, Coding, Horseshoe crabs and helping others! <br>
     
