@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm zenze (Pseudonym)</h1>
 
-### "To live is to be known and remembered by others." - Himmel, the hero. 
+### "Just because someone stumbles, loses their way, doesn't mean they are lost forever. Sometimes we all need a little help." - Professor X. 
 
-Big fan of old japanese media, Coding, Horseshoe crabs and helping others! <br>
+Big fan of Old technology, Coding, Horseshoe crabs and helping others! <br>
     
 <details>
   <summary><strong>Expand if you are about stats</strong></summary>
