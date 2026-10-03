@@ -2,8 +2,11 @@
 
 ### "There's still hope." - Professor X. 
 
-Big fan of Old technology, Coding, Horseshoe crabs and helping others! <br>
-    
+Big fan of Old technology, Coding, Horseshoe crabs and helping others!
+<br>
+I :heart: SHEEPS !!
+<br>
+
 <details>
   <summary><strong>Expand if you are about stats</strong></summary>
   <br>
