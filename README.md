@@ -11,7 +11,7 @@ I :heart: SHEEPS !!
   <summary><strong>Expand if you are about stats</strong></summary>
   <br>
 
- [![Top Langs](https://github-readme-stats-henna-zeta-40.vercel.app/api/top-langs/?username=zenzesama&exclude_repo=zenze.dev)](https://github.com/anuraghazra/github-readme-stats) [![zenze's GitHub stats](https://github-readme-stats-henna-zeta-40.vercel.app/api?username=zenzesama)](https://github.com/anuraghazra/github-readme-stats)   
+ [![Top Langs](https://github-readme-stats-henna-zeta-40.vercel.app/api/top-langs/?username=zenzesama)](https://github.com/anuraghazra/github-readme-stats) [![zenze's GitHub stats](https://github-readme-stats-henna-zeta-40.vercel.app/api?username=zenzesama)](https://github.com/anuraghazra/github-readme-stats)   
 
   ![leetcode_stats](https://leetcard.jacoblin.cool/zenzesama?font=Play&ext=heatmap)
 
