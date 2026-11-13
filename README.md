@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm ƶenƶe (Pseudonym)</h1>
 
-### "There's still hope." - Professor X. 
+### "There's still hope." - Professor X
 
 Big fan of Old technology, Coding, Horseshoe crabs and helping others!
 <br>
